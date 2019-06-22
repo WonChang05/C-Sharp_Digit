@@ -1,0 +1,6 @@
+D:\Users\Won\Desktop\作品彙整\digit\digit\bin\Debug\digit.exe.config
+D:\Users\Won\Desktop\作品彙整\digit\digit\bin\Debug\digit.exe
+D:\Users\Won\Desktop\作品彙整\digit\digit\bin\Debug\digit.pdb
+D:\Users\Won\Desktop\作品彙整\digit\digit\obj\Debug\digit.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\作品彙整\digit\digit\obj\Debug\digit.exe
+D:\Users\Won\Desktop\作品彙整\digit\digit\obj\Debug\digit.pdb
